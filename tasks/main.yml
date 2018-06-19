@@ -1,0 +1,2 @@
+- name: install gluster-client
+  yum: name=glusterfs-client state=latest
